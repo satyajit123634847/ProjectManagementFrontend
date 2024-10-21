@@ -8,45 +8,22 @@ This is a React application that allows users to manage projects efficiently.
 
 To get the project up and running on your local machine, follow these steps:
 
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (version 14 or higher)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
-### Installation
-
-1. Clone the repository:
+### Installation And Run
 
    ```bash
-   git clone https://github.com/satyajit123634847/ProjectManagementFrontend.git
+   git clone 
+ https://github.com/satyajit123634847/ProjectManagementFrontend.git
 
+ cd ProjectManagementFrontend
 
-2. Navigate to the project directory:
+ npm install
 
-  ```bash
-   cd ProjectManagementFrontend
+ npm run dev
 
+```
+### Login Credentials
 
-3. Install the dependencies:
-
-  ```bash
-   npm install
-
-
-
-4. Start the application in development mode:
-
-  ```bash
-   npm run dev
-
-
-
-Login Credentials
 To log in, use the following credentials:
 
-Email: admin@admin.com
-Password: admin123
-
-
+- Email: admin@admin.com
+- Password: admin123
