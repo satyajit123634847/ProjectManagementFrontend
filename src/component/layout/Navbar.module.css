@@ -1,0 +1,16 @@
+.nav-link {
+    color: var(--white-color) !important; 
+}
+
+.nav-link.active {
+    font-weight: bold; 
+    color: #caa200 !important; 
+}
+
+.navbar-toggler {
+    border-color: var(--white-color) !important; 
+}
+
+.nav-item {
+    margin-left: 15px; 
+}
